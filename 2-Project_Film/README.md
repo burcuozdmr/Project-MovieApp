@@ -30,6 +30,7 @@ Users should be able to:
 
 ![Movie App Main Screen Appearence](project/screenshots/main-screen.jpg)
 ![Movie App Modal Screen Appearence](project/screenshots/modal-screen.jpg)
+![Movie App Add Film Screen Appearence](project/screenshots/addFilm-screen.jpg)
 
 ### Links
 
