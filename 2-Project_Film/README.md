@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Movie App Main Screen Appearence](screenshots/main-screen.jpg)
-![Movie App Modal Screen Appearence](screenshots/modal-screen.jpg)
+![Movie App Main Screen Appearence](project/screenshots/main-screen.jpg)
+![Movie App Modal Screen Appearence](project/screenshots/modal-screen.jpg)
 
 ### Links
 
