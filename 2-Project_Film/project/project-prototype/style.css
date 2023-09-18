@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  font-family: 'Montserrat', sans-serif !important;
+}
+#input::placeholder {
+  color: #fff; 
+  opacity: 0.1;
+}
+.custom-border-shadow {
+  box-shadow: 0 0 5px blue; /* İstediğiniz renk ve boyutu burada belirtebilirsiniz */
+}
+.color-text{
+  color:  #adb5bd !important;
+}
+
+.border-collapse{
+  border: none !important;
+}
+.single-line {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
